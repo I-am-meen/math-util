@@ -4,6 +4,8 @@
 ### You will find in this repo the following stuff:
 * The Math_Util library that offers multiple math functions (a Java-based source code)
 * Unit Tesing source code with JUnit framework
+* GitHub Actions to demonstrate the Countinuous Integration (CI) technique
+* Regression Test
 * ...
 
 
