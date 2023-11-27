@@ -14,8 +14,7 @@ public class MathUtill {
     
     //trong class này cung cấp cho ai đó nhiều hàm xử lý toán học
     //clone class Math của JDK
-    //hàm thư viện xài chung cho ai đó, k cần lưu lại trạng thái/ giá trị 
-    //chọn thiết kế là hàm static
+    
 
     
     //hàm tính giai thừa!!!
@@ -49,7 +48,7 @@ public class MathUtill {
     }
     
     //Học đệ quy - RESURION
-    //Hiện tượng gọi lại chính mình với quy mô khác 
+    
      //n! = 1.2.3.4.5. .... . n
     //6! = 6*5!
     //5 = 5*4!
